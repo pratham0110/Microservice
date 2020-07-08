@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1f8d77e0-06ad-468a-b23b-d33a09bf4f16" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1dDZg5DwwI1EPL9NCLiOicp80BU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f8d77e0-06ad-468a-b23b-d33a09bf4f16" name="Default Changelist" comment="" />
+      <created>1591961731300</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591961731300</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="89" key="FileChooserDialogImpl" timestamp="1591962265989">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="89" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1591962265989" />
+    <state x="348" y="124" key="NewModule_or_Project.wizard" timestamp="1591962267477">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="348" y="124" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1591962267477" />
+    <state width="498" height="398" key="SwitcherDM" timestamp="1591961762196">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="498" height="398" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1591961762196" />
+    <state x="346" y="49" key="search.everywhere.popup" timestamp="1591961776096">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1591961776096" />
+  </component>
+</project>
